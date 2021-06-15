@@ -1,0 +1,12 @@
+{
+	"1.0.1": [
+		"marketplace_builder/views/partials/layouts/modules/module_0/example_layout_2/list/item.liquid",
+		"modules/photo_galleries/private/assets/css/modules/module_0/example_layout_2/list.scss",
+		"modules/photo_galleries/public/assets/css/modules/module_0/example_layout_2/list.min.css"
+	],
+	"0.5.0": [
+		"marketplace_builder/views/partials/layouts/modules/module_0/example_layout_1/list/item.liquid",
+		"modules/photo_galleries/private/assets/css/modules/module_0/example_layout_1/list.scss",
+		"modules/photo_galleries/public/assets/css/modules/module_0/example_layout_1/list.min.css"
+	]
+}

@@ -1,0 +1,33 @@
+[
+	{
+		"id": 0,
+		"use_standard_fields": true,
+		"module_name": {
+			"value": "Photo Galleries Module"
+		},
+		"module_slug": {
+			"value": "photo-galleries-module"
+		},
+		"module_detail": {
+			"value": false
+		},
+		"module_detail_default_layout": {
+			"value": "default"
+		},
+		"module_detail_template": {
+			"value": "templates/blank_page"
+		},
+		"module_field_0_1": {
+			"name": "Title",
+			"type": "input_text",
+			"live": true,
+			"required": false
+		},
+		"module_field_0_2": {
+			"name": "Path",
+			"type": "input_text",
+			"live": true,
+			"required": false
+		}
+	}
+]
