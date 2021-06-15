@@ -1,12 +1,12 @@
 [
 	{
-		"id": 0,
+		"id": 23,
 		"use_standard_fields": true,
 		"module_name": {
-			"value": "Photo Galleries Module"
+			"value": "Photo Galleries"
 		},
 		"module_slug": {
-			"value": "photo-galleries-module"
+			"value": "photo-galleries"
 		},
 		"module_detail": {
 			"value": false
@@ -17,13 +17,13 @@
 		"module_detail_template": {
 			"value": "templates/blank_page"
 		},
-		"module_field_0_1": {
+		"module_field_23_1": {
 			"name": "Title",
 			"type": "input_text",
 			"live": true,
 			"required": false
 		},
-		"module_field_0_2": {
+		"module_field_23_2": {
 			"name": "Path",
 			"type": "input_text",
 			"live": true,
