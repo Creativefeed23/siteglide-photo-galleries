@@ -1,33 +1,29 @@
 [
 	{
 		"id": 23,
+		"type": "module",
+		"name": "Photo Galleries",
+		"slug": "photo-galleries",
+		"detail": false,
+		"detail_template": "templates/blank_page",
+		"detail_default_layout": "default",
+		"sz": false,
+		"sz_updated": true,
+		"sz_display_type": "404",
 		"use_standard_fields": true,
-		"module_name": {
-			"value": "Photo Galleries"
-		},
-		"module_slug": {
-			"value": "photo-galleries"
-		},
-		"module_detail": {
-			"value": false
-		},
-		"module_detail_default_layout": {
-			"value": "default"
-		},
-		"module_detail_template": {
-			"value": "templates/blank_page"
-		},
-		"module_field_23_1": {
-			"name": "Title",
-			"type": "input_text",
-			"live": true,
-			"required": false
-		},
-		"module_field_23_2": {
-			"name": "Path",
-			"type": "input_text",
-			"live": true,
-			"required": false
+		"system_fields": {
+			"module_field_23_1": {
+				"name": "Title",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			},
+			"module_field_23_2": {
+				"name": "Path",
+				"type": "input_text",
+				"live": true,
+				"required": false
+			}
 		}
 	}
 ]
